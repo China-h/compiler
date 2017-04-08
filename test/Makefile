@@ -1,6 +1,6 @@
 CC = gcc
 CFLGA = -Wall -ggdb3 -O8 -c
-obj-m = test.o tools.o lexical.o operfile.o
+obj-m = 
 
 
 test:$(obj-m)
