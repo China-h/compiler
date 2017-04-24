@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1492990360 source:/home/explorer/codeblocks/compiler/src/main.c
+	<math.h>
+
+1493020322 source:/home/explorer/admin/compiler/src/main.c
+	<main.h>
+
+1492995061 source:/home/explorer/admin/compiler/src/algorithm.c
+	<algorithm.h>
+
+1493019869 source:/home/explorer/admin/compiler/src/zalloc.c
+	<stdio.h>
+	<stdlib.h>
+	<zalloc.h>
+	<algorithm.h>
+
